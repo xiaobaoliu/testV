@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.mvn",
+    "\\.mvn\\wrapper",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\wangji92",
+    "\\src\\main\\java\\com\\wangji92\\retry",
+    "\\src\\main\\java\\com\\wangji92\\retry\\springretryexample"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\wangji92\\retry\\springretryexample\\SpringRetryExampleApplication.java",
+  "PreviewInSolutionExplorer": false
+}
